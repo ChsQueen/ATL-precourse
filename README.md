@@ -1,15 +1,7 @@
 # ATL-precourse
 
 ## BARE MINIMUM REQUIREMENTS
-### !challenge 
-
-*type: checkbox
-
-### !question 
-
 Bare minimum requirements are absolutely required. 
-
-### !end-question
 
 * Using start.spring.io create application/RESTful api (if this is foreign to you, a tutorial like this one walks through creating an application and will be helpful)
 * Create at least one entity
